@@ -1,4 +1,4 @@
-Java Swing User Management System 
+Java Swing Application for User Management System 
 
 1) Manage persons use case
 
